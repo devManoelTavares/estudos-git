@@ -1,4 +1,4 @@
 <?php
 
 echo 'Testando versionamento [...]';
-echo 'Fatal!';
+echo 'Ok!';
