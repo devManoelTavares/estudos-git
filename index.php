@@ -1,2 +1,3 @@
 <?php
-echo 'Testando versionamento';
+echo 'Testando versionamento [...]';
+echo 'Fatal!';
